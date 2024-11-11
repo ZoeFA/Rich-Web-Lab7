@@ -1,0 +1,49 @@
+{
+  "albums": [
+    {
+      "id": 101,
+      "title": "brat",
+      "description": "The sixth studio album by English singer Charli XCX.",
+      "date": "7th June",
+      "artist": "Charli XCX",
+      "cover": "/assets/brat-cover.svg",
+      "genres": ["Pop", "Electronic", "Hyperpop", "Dance"]
+    },
+    {
+      "id": 102,
+      "title": "Loss of Life",
+      "description": "The fifth studio album by American rock band MGMT.",
+      "date": "23rd February",
+      "artist": "MGMT",
+      "cover": "/assets/lossoflife-cover.svg",
+      "genres": ["Pop", "Rock", "Progressive Pop", "Indie Rock", "Psychedelic Pop", "Psychedelic Folk"]
+    },
+    {
+      "id": 103,
+      "title": "Diamond Jubilee",
+      "description": "The seventh studio album by Canadian band Cindy Lee.",
+      "date": "28th March",
+      "artist": "Cindy Lee",
+      "cover": "/assets/diamondjub-cover.svg",
+      "genres": ["Folk", "Psychedelic Pop", "Hypnagogic Pop"]
+    },
+    {
+      "id": 104,
+      "title": "Hyperdrama",
+      "description": "The fourth studio album by French electronic music duo Justice.",
+      "date": "26th April",
+      "artist": "Justice",
+      "cover": "/assets/hyperdrama-cover.svg",
+      "genres": ["Dance", "French House", "Synthwave"]
+    },
+    {
+      "id": 105,
+      "title": "Fearless Movement",
+      "description": "The fifth studio album by American jazz saxophonist Kamasi Washington.",
+      "date": "3rd May",
+      "artist": "Kamasi Washington",
+      "cover": "/assets/fearlessmove-cover.svg",
+      "genres": ["Jazz"]
+    }
+  ]
+}

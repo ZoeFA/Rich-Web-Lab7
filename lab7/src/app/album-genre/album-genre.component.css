@@ -1,0 +1,36 @@
+.albumEntry{
+  background: var(--primary-color);
+  border-radius: 30px;
+  padding-bottom: 30px;
+}
+
+.albumEntry-heading{
+  color: var(--primary-color);
+  padding-bottom: 30px;
+}
+
+.albumEntry-photo{
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 30px 30px 0 0;
+}
+
+.albumEntry-genre{
+  padding: 10px 20px 20px 20px;
+}
+
+.albumEntry-genre::before{
+  content: url("/assets/music-note.svg") / "";
+}
+
+section.albumEntry a{
+  padding-left: 20px;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+section.albumEntry a::after{
+  content: "\203A";
+  margin-left: 5px;
+}
